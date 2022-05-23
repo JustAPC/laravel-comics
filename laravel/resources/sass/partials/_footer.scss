@@ -1,0 +1,71 @@
+.hero-bg {
+    background-image: url("/images/footer-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+li {
+    list-style-type: none;
+    color: grey;
+    font-size: 0.7em;
+}
+
+p {
+    color: white;
+}
+
+div {
+    color: white;
+}
+
+.footer-menu {
+    width: 25%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.img-container {
+    width: 40%;
+    margin-left: 70px;
+}
+
+.dc-logo-bg {
+    background-image: url("/images/dc-logo-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#info-section {
+    background-color: #303030;
+}
+
+#info-container {
+    padding: 35px 0;
+}
+
+#signup {
+    color: white;
+    padding: 10px 13px;
+    border: 2px solid #0282f9;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h6 {
+    color: #0282f9;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.icons a img {
+    width: 12%;
+}
