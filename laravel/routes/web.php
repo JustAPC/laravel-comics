@@ -14,5 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    include __DIR__ . '/../config/navbarMenu.php';
+
+    return view('home', $data);
+})->name('home');
