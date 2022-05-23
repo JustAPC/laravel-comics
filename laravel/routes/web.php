@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     include __DIR__ . '/../config/navbarMenu.php';
+    include __DIR__ . '/../config/comics.php';
 
-    return view('home', $data);
+    return view('home', $menu, $comicsList);
 })->name('home');

@@ -1,5 +1,5 @@
 <?php
-$data = [
+$menu = [
     'links' => [
         [
             'page' => 'CHARACTERS',

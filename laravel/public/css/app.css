@@ -92,8 +92,50 @@ button {
 }
 
 .jumbo-img {
-  height: 600px;
-  background-position: center;
+  height: 350px;
+  background-color: red;
+  background-image: url("/images/jumbotron.jpg");
   background-size: cover;
+}
+
+#current-series {
+  color: white;
+  font-size: 1.4em;
+  font-weight: bold;
+  padding: 10px 20px;
+  background-color: #0282f9;
+  position: absolute;
+  bottom: -25px;
+  left: 230px;
+}
+
+main {
+  background-color: #1c1c1c;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.card-bg {
+  height: 160px;
+  width: 160px;
+  background-size: cover;
+}
+
+.description {
+  font-size: 0.8em;
+  color: white;
+  text-transform: uppercase;
+}
+
+#load-more-button {
+  color: white;
+  font-size: 0.8em;
+  font-weight: bold;
+  padding: 10px 50px;
+  background-color: #0282f9;
+  text-decoration: none;
 }
 
