@@ -91,3 +91,9 @@ button {
   border-bottom: 2px solid #0282f9;
 }
 
+.jumbo-img {
+  height: 600px;
+  background-position: center;
+  background-size: cover;
+}
+
