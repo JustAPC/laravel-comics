@@ -20,7 +20,7 @@
                         <ul>
                             @foreach ($links as $item)
                                 <li class="{{ $item['activepage'] === true ? 'active' : '' }}">
-                                    <a href="{{ $item['link'] }}">{{ $item['page'] }}</a>
+                                    <a href="{{ route($item['link']) }}">{{ $item['page'] }}</a>
                                 </li>
                             @endforeach
                         </ul>

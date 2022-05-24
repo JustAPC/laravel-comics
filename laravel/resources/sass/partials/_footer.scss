@@ -4,10 +4,14 @@
     background-repeat: no-repeat;
 }
 
-li {
+.footer-menu ul {
+    padding-left: 0;
+}
+
+.footer-menu li {
     list-style-type: none;
-    color: grey;
     font-size: 0.7em;
+    display: block;
 }
 
 p {
@@ -22,11 +26,12 @@ div {
     width: 25%;
 }
 
-a {
+.footer-menu a {
+    color: grey;
     text-decoration: none;
 }
 
-a:hover {
+.footer-menu a:hover {
     text-decoration: underline;
     color: white;
 }

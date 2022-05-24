@@ -1,101 +1,52 @@
 <footer>
+
     <div class="hero-bg">
         <div class="container d-flex">
             <div class="d-flex w-50 pb-4">
                 <div class="footer-menu pt-5">
                     <h6 class="fw-bold text-white">DC COMICS</h6>
                     <ul class="py-3">
-                        <a href="">
-                            <li>Characters</li>
-                        </a>
-                        <a href="">
-                            <li>Comics</li>
-                        </a>
-                        <a href="">
-                            <li>Movies</li>
-                        </a>
-                        <a href="">
-                            <li>Tv</li>
-                        </a>
-                        <a href="">
-                            <li>Games</li>
-                        </a>
-                        <a href="">
-                            <li>Videos</li>
-                        </a>
-                        <a href="">
-                            <li>News</li>
-                        </a>
+                        <li><a href="#">Characters</li></a>
+                        <li><a href="#">Comics</li></a>
+                        <li><a href="#">Movies</li></a>
+                        <li><a href="#">Tv</li></a>
+                        <li><a href="#">Games</li></a>
+                        <li><a href="#">Videos</li></a>
+                        <li><a href="#">News</li></a>
                     </ul>
 
                     <h6 class="text-white fw-bold pb-3">SHOP</h6>
                     <ul>
-                        <a href="">
-                            <li>Shop DC</li>
-                        </a>
-                        <a href="">
-                            <li>Shop DC Collectibles</li>
-                        </a>
+                        <li><a href="#">Shop DC</li></a>
+                        <li><a href="#">Shop DC Collectibles</li></a>
                     </ul>
                 </div>
 
                 <div class="footer-menu pt-5">
                     <h6 class="fw-bold text-white">DC</h6>
                     <ul class="py-3">
-                        <a href="">
-                            <li>Terms Of Use</li>
-                        </a>
-                        <a href="">
-                            <li>Privacy Policy (News)</li>
-                        </a>
-                        <a href="">
-                            <li>Ad Choices</li>
-                        </a>
-                        <a href="">
-                            <li>Advertising</li>
-                        </a>
-                        <a href="">
-                            <li>Jobs</li>
-                        </a>
-                        <a href="">
-                            <li>Subscriptions</li>
-                        </a>
-                        <a href="">
-                            <li>Talent Workshops</li>
-                        </a>
-                        <a href="">
-                            <li>CPSC Certificates</li>
-                        </a>
-                        <a href="">
-                            <li>Ratings</li>
-                        </a>
-                        <a href="">
-                            <li>Shop Help</li>
-                        </a>
-                        <a href="">
-                            <li>Contact Us</li>
-                        </a>
+                        <li><a href="#">Terms Of Use</li></a>
+                        <li><a href="#">Privacy Policy (News)</li></a>
+                        <li><a href="#">Ad Choices</li></a>
+                        <li><a href="#">Advertising</li></a>
+                        <li><a href="#">Jobs</li></a>
+                        <li><a href="#">Subscriptions</li></a>
+                        <li><a href="#">Talent Workshops</li></a>
+                        <li><a href="#">CPSC Certificates</li></a>
+                        <li><a href="#">Ratings</li></a>
+                        <li><a href="#">Shop Help</li></a>
+                        <li><a href="#">Contact Us</li></a>
                     </ul>
                 </div>
 
                 <div class="footer-menu pt-5">
                     <h6 class="fw-bold text-white">SITES</h6>
                     <ul class="py-3">
-                        <a href="">
-                            <li>DC</li>
-                        </a>
-                        <a href="">
-                            <li>MAD Magazine</li>
-                        </a>
-                        <a href="">
-                            <li>DC Kids</li>
-                        </a>
-                        <a href="">
-                            <li>DC Universe</li>
-                        </a>
-                        <a href="">
-                            <li>DC Power Visa</li>
-                        </a>
+                        <li><a href="#">DC</li></a>
+                        <li><a href="#">MAD Magazine</li></a>
+                        <li><a href="#">DC Kids</li></a>
+                        <li><a href="#">DC Universe</li></a>
+                        <li><a href="#">DC Power Visa</li></a>
                     </ul>
                 </div>
             </div>

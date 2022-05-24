@@ -3,52 +3,52 @@ $menu = [
     'links' => [
         [
             'page' => 'CHARACTERS',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => false
         ],
         [
             'page' => 'COMICS',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => true
         ],
         [
             'page' => 'MOVIES',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => false
         ],
         [
             'page' => 'TV',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => false
         ],
         [
             'page' => 'GAMES',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => false
         ],
         [
             'page' => 'COLLECTIBLES',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => false
         ],
         [
             'page' => 'VIDEOS',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => false
         ],
         [
             'page' => 'FANS',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => false
         ],
         [
             'page' => 'NEWS',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => false
         ],
         [
             'page' => 'SHOP',
-            'link' => '/',
+            'link' => 'comics',
             'activepage' => false
         ]
     ],
