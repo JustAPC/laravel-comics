@@ -7865,7 +7865,7 @@ button {
 }
 
 .jumbo-img {
-  height: 350px;
+  height: 380px;
   background-image: url("/images/jumbotron.jpg");
   background-size: cover;
 }
@@ -8005,4 +8005,34 @@ h6 {
 
 .icons a img {
   width: 12%;
+}
+
+.comic-preview {
+  height: 80px;
+  width: 100%;
+  background-color: #0282f9;
+}
+
+.comic-img {
+  width: 180px;
+}
+
+.comic-card {
+  bottom: 10px;
+  left: 400px;
+  border: 1px solid white;
+}
+
+.comic-book,
+.view-gallery {
+  background-color: #00a9d9;
+  font-size: 0.8em;
+  padding: 2px;
+}
+
+.comic-title {
+  color: #003f5e;
+  padding-top: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
