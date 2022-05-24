@@ -19,8 +19,7 @@
 
     {{-- Sezione Acquisto Fumetto --}}
     <section class="comic-infos bg-white">
-
-        <div class="container">
+        <div class="container pb-5">
             <div class="px-5">
                 <div class="ps-5 d-flex justify-content-between">
 
