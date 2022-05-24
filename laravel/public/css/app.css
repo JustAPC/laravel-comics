@@ -8066,7 +8066,7 @@ h6 {
   border-right: 1px solid red;
 }
 
-.border1 {
+.bordertop {
   border-top: 1px solid #e3e3e3;
   background-color: #f6f6f6;
 }
@@ -8097,4 +8097,21 @@ h6 {
 
 .artists-container {
   width: 60%;
+}
+
+.merch-box {
+  display: flex;
+  align-items: stretch;
+}
+
+.merch-text {
+  text-transform: uppercase;
+  color: #9f9fa4;
+  font-weight: bold;
+  font-size: 0.7em;
+}
+
+.merch-container {
+  border-left: 1px solid #e3e3e3;
+  border-right: 1px solid #e3e3e3;
 }
