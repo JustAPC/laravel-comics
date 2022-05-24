@@ -8033,6 +8033,68 @@ h6 {
 .comic-title {
   color: #003f5e;
   padding-top: 40px;
+  padding-bottom: 20px;
   font-weight: bold;
-  text-transform: uppercase;
+}
+
+.price-text {
+  color: #bafd9c;
+}
+
+.info-container {
+  background-color: #55ba59;
+}
+
+.info-section {
+  width: 75%;
+  padding-left: 1rem;
+  font-weight: 700;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid red;
+  border-right: 1px solid red;
+}
+
+.info-section2 {
+  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid red;
+  border-right: 1px solid red;
+}
+
+.border1 {
+  border-top: 1px solid #e3e3e3;
+  background-color: #f6f6f6;
+}
+
+.talent-title {
+  color: #003f5e;
+}
+
+.artist-text {
+  color: #00a9df;
+  text-decoration: none;
+  font-size: 0.8em;
+}
+.artist-text a:hover {
+  text-decoration: underline;
+}
+
+.desc-container1 {
+  padding: 5px 0;
+  border-top: 1px solid #e3e3e3;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.desc-container2 {
+  padding: 5px 0;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.artists-container {
+  width: 60%;
 }
